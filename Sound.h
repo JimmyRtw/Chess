@@ -1,4 +1,5 @@
 #include <SFML/Audio.hpp>
+#include <SFML/Graphics.hpp>
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -9,12 +10,12 @@ using namespace sf;
 
 class Sounds
 {
-    private:
+    // private:
 
-    SoundBuffer move_buff,capture_buff,undo_buff,redo_buff;
-    Sound move_Sound,capture_Sound,undo_Sound,redo_Sound;
+    // SoundBuffer move_buff,capture_buff,undo_buff,redo_buff;
+    // Sound move_Sound,capture_Sound,undo_Sound,redo_Sound;
 
-    string common_path = "C:\\GAME\\CHESS\\SOUNDS\\";
+    // string common_path = "C:\\GAME PROJECTS\\Chess\\SOUNDS";
 
     public:
 

@@ -17,7 +17,7 @@ class Shapes
     vector<Sprite>rds;
     vector<Sprite>aas;
 
-    string common_path = "C:\\GAME\\CHESS\\IMAGES\\SHAPES\\";
+    string common_path = "C:\\GAME PROJECTS\\Chess\\IMAGES\\SHAPES\\";
 
     public:
 

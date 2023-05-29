@@ -19,7 +19,7 @@ class Button
     Font font;
     Text text;
 
-    string common_path = "C:\\GAME\\CHESS\\IMAGES\\BUTTON\\";
+    string common_path = "C:\\GAME PROJECTS\\Chess\\IMAGES\\BUTTON\\";
     string Name;
 
     public:

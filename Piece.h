@@ -21,7 +21,7 @@ class Piece
 
     //image importing path
     string Start_Fen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";               //"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
-    string common_path = "C:\\GAME\\CHESS\\IMAGES\\CHESS_PIECES\\";
+    string common_path = "C:\\GAME PROJECTS\\Chess\\IMAGES\\CHESS_PIECES\\";
 
     //piece representation in numbers
     const int rook_1 = 0;

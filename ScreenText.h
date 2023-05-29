@@ -20,7 +20,7 @@ class ScreenText
 
     float x,y,ox,oy;
 
-    string common_path = "C:\\GAME\\CHESS\\IMAGES\\SCREEN_TEXT\\";
+    string common_path = "C:\\GAME PROJECTS\\Chess\\IMAGES\\SCREEN_TEXT\\";
     string name;
 
     public:

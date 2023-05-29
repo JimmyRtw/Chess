@@ -1,5 +1,5 @@
+#include <SFML/Graphics.hpp>
 #include <bits/stdc++.h>
-#include <SFML/graphics.hpp>
 
 using namespace std;
 using namespace sf;
@@ -15,8 +15,8 @@ class Board
     Texture board_tex,board_bg_tex;
     Sprite board_spr,board_bg_spr;
 
-    string board_path = "C:\\GAME\\CHESS\\IMAGES\\BOARD\\chessboard.png";
-    string board_bg_path = "C:\\GAME\\CHESS\\IMAGES\\BOARD\\chessboardbg.png";
+    string board_path = "C:\\GAME PROJECTS\\Chess\\IMAGES\\BOARD\\chessboard.png";
+    string board_bg_path = "C:\\GAME PROJECTS\\Chess\\IMAGES\\BOARD\\chessboardbg.png";
 
     public:
 
